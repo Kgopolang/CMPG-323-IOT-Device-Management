@@ -1,7 +1,7 @@
 # CMPG-323-Project-3--34343962
 ## How the Web App is used:
 
-The user will be first referred to this page when the url is loaded on the browser.
+### The user will be first referred to this page when the url is loaded on the browser.
 
 <img width="960" alt="ConnectedOffice1" src="https://user-images.githubusercontent.com/91874692/193001557-9f50acfe-2250-40c5-9be9-970f3d646627.png">
 
