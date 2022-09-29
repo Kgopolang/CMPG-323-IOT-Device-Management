@@ -1,5 +1,8 @@
 # CMPG-323-Project-3--34343962
 
+<img width="960" alt="ConnectedOffice1" src="https://user-images.githubusercontent.com/91874692/193001557-9f50acfe-2250-40c5-9be9-970f3d646627.png">
+
+
 ## references:
 
 Anderson, R., 2022. Accessing your Model's Data from a Controller (C#). [Online] 
