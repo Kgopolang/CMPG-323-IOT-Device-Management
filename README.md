@@ -1,6 +1,39 @@
 # CMPG-323-Project-3--34343962
+## How the Web App is used:
+
+The user will be first referred to this page when the url is loaded on the browser.
 
 <img width="960" alt="ConnectedOffice1" src="https://user-images.githubusercontent.com/91874692/193001557-9f50acfe-2250-40c5-9be9-970f3d646627.png">
+
+For new users: Registration is required 
+<img width="960" alt="ConnectedOffice2png" src="https://user-images.githubusercontent.com/91874692/193002468-2abb7f2f-f9bf-4f9b-869b-36fe2562fc25.png">
+
+For returning users: Login is required to view the database data.
+<img width="960" alt="ConnectedOffice3png" src="https://user-images.githubusercontent.com/91874692/193002668-cb5114b2-45e9-4f3f-b4f2-d0d35eaab205.png">
+ 
+Students wil be referred to this welcome page after entering correct login details
+<img width="960" alt="ConnectedOffice4png" src="https://user-images.githubusercontent.com/91874692/193002986-118624c6-7b8f-4ab4-8174-6359874beb6f.png">
+
+View of all the Zones in the database
+<img width="960" alt="ConnectedOffice5png" src="https://user-images.githubusercontent.com/91874692/193003198-46df2ee7-5c87-4021-8a47-661e8c74b347.png">
+
+Adding new "Zone"
+<img width="960" alt="ConnectedOffice6png" src="https://user-images.githubusercontent.com/91874692/193003336-80dc667d-5e63-486c-8fdd-1cbf7cd20c13.png">
+<img width="960" alt="ConnectedOffice7" src="https://user-images.githubusercontent.com/91874692/193003367-20cc72ff-9a3f-4e46-9d03-8d550622e93f.png">
+
+Editing an existing "Zone"
+<img width="960" alt="ConnectedOffice8" src="https://user-images.githubusercontent.com/91874692/193003506-eb21f4e1-cd75-449f-a352-e49b117c7174.png">
+<img width="960" alt="ConnectedOffice9" src="https://user-images.githubusercontent.com/91874692/193003563-0a8a7f7b-97d2-4ce6-a1af-ebca46cae921.png">
+
+Deleting an existing "Zone"
+<img width="960" alt="ConnectedOffice10" src="https://user-images.githubusercontent.com/91874692/193003714-310199f3-c09a-4f3c-8e43-7ee317ba286b.png">
+<img width="960" alt="ConnectedOffice11" src="https://user-images.githubusercontent.com/91874692/193003761-49ed873e-fc55-4893-834e-c4f59abb77b6.png">
+
+View an existing "Zone" Details
+<img width="960" alt="ConnectedOffice12" src="https://user-images.githubusercontent.com/91874692/193003942-cdf7c890-fe8f-4eb9-a886-69ddf818cbdb.png">
+
+
+
 
 
 ## references:
