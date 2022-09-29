@@ -25,7 +25,7 @@ namespace DeviceManagement_WebApp.Controllers
             return View(_categoryRepository.GetAll());
         }
 
-        // GET: Zones/Details/5
+        // GET: Category/Details/5
         public async Task<IActionResult> Details(Guid id)
         {
             if (id == null)
@@ -62,7 +62,7 @@ namespace DeviceManagement_WebApp.Controllers
             return View();
         }
 
-        // GET: Zones/Edit/5
+        // GET: Category/Edit/5
         public async Task<IActionResult> Edit(Guid id)
         {
             if (id == null)
@@ -78,7 +78,7 @@ namespace DeviceManagement_WebApp.Controllers
             return View(model);
         }
 
-        // POST: Zones/Edit/5
+        // POST: Category/Edit/5
         // To protect from overposting attacks, enable the specific properties you want to bind to, for 
         // more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
@@ -94,7 +94,7 @@ namespace DeviceManagement_WebApp.Controllers
 
         }
 
-          // GET: Zones/Delete/5
+          // GET: Category/Delete/5
         public async Task<IActionResult> Delete(Guid id)
         {
             if (id == null)
@@ -111,7 +111,7 @@ namespace DeviceManagement_WebApp.Controllers
             return View(model);
         }
 
-        // POST: Zones/Delete/5
+        // POST: Category/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
         public async Task<IActionResult> DeleteConfirmed(Guid id)

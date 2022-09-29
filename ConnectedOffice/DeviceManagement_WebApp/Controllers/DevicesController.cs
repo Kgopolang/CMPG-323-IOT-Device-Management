@@ -47,8 +47,8 @@ namespace DeviceManagement_WebApp.Controllers
         // GET: Devices/Create
         public IActionResult Create()
         {
-          //  ViewData["CategoryId"] = new SelectList(_context.Category, "CategoryId", "CategoryName");
-           // ViewData["ZoneId"] = new SelectList(_context.Zone, "ZoneId", "ZoneName");
+           // ViewData["CategoryId"] = new SelectList(_deviceRepository.GetSet<Category>(), "CategoryId", "CategoryName");
+          //  ViewData["ZoneId"] = new SelectList(_deviceRepository.GetSet<Zone>(), "ZoneId", "ZoneName");
             return View();
         }
 
@@ -80,7 +80,7 @@ namespace DeviceManagement_WebApp.Controllers
             {
                 return NotFound();
             }
-            ViewData["CategoryId"] = new SelectList(_context.Category, "CategoryId", "CategoryName", device.CategoryId);
+           // ViewData["CategoryId"] = new SelectList(_context.Category, "CategoryId", "CategoryName", device.CategoryId);
            // ViewData["ZoneId"] = new SelectList(_context.Zone, "ZoneId", "ZoneName", device.ZoneId);
             return View(device);
         }

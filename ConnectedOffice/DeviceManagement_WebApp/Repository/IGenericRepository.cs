@@ -15,6 +15,8 @@ namespace DeviceManagement_WebApp.Repository
         void RemoveRange(IEnumerable<T> entities);
         void Update(T entity);
 
+       // IEnumerable<T> GetSet<T>();
+
     }
 
 }

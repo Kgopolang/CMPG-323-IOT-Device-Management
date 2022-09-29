@@ -5,6 +5,7 @@ using DeviceManagement_WebApp.Data;
 using System.Linq;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
+using Microsoft.CodeAnalysis.CSharp.Syntax;
 
 namespace DeviceManagement_WebApp.Repository
 {
@@ -50,6 +51,11 @@ namespace DeviceManagement_WebApp.Repository
         {
             _context.Update(entity);
             _context.SaveChanges();
+        }
+
+        public IEnumerable<T> GetSet<T>() where T : class
+        {
+            return _context.Set<T>().ToList();
         }
 
     }
