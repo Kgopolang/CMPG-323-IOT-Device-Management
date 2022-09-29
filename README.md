@@ -2,7 +2,7 @@
 
 This project is set out to teach students about the ASP.NET MVC. Students were practically challenged to implement IGeneric interface and Generic class that will help users to interact with the database through an View. We asked to create the Interfaces and classes for each table in the database(Categories,Devices,Zones) on visual studio ASP.net and publish the web application on azure.
 
-##  How stakeholders are to use the API
+##  Stakeholders:
 The MVC created will allows manipulation of the Cloud database via a web application(interface) . More than one person can manipulate(add,delete,update) the database in the Cloud. One of the advantages about hosting the database on the Cloud is that it encourages  integration, organization of data and constant monitoring(since many authorized users can do it)
 
 The stakehoders can connect to the database remotely regardless of where they are and the type of device they use. Hence many people in the Tech Industry can work from home.
